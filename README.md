@@ -38,9 +38,9 @@
   <div class="box">
     <h2>Connect with me</h2>
 
-    <a href="https://instagram.com/USERNAME">Instagram</a>
-    <a href="https://wa.me/989XXXXXXXXX">WhatsApp</a>
-    <a href="https://t.me/USERNAME">Telegram</a>
+    <a href="https://instagram.com/amirreza__nasiri1">Instagram</a>
+    <a href="https://wa.me/989944382982">WhatsApp</a>
+    <a href="https://t.me/amirrezana30ri">Telegram</a>
 
   </div>
 </body>
